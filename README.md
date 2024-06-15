@@ -91,11 +91,12 @@ The left is ours and the right is the original optical flow algorithm.
 ## 5. Cite
 
 ```
-@misc{let-net,
-      title={Breaking of brightness consistency in optical flow with a lightweight CNN network}, 
-      author={Yicheng Lin and Shuo Wang and Yunlong Jiang and Bin Han},
-      year={2023},
-      eprint={2310.15655},
-      archivePrefix={arXiv}
+@ARTICLE{let-net,
+  author={Lin, Yicheng and Wang, Shuo and Jiang, Yunlong and Han, Bin},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={{Breaking of brightness consistency in optical flow with a lightweight CNN network}}, 
+  year={2024},
+  pages={1-8}
 }
+
 ```
